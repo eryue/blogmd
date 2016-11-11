@@ -3,10 +3,10 @@ title: traits
 date: 2016-09-12
 categories: technology
 tags: c/c++
+description: 侯捷的stl源码剖析中指出，traits编程技法，利用“内嵌型别”的编程技法和编译器的template参数推导功能，萃取出型别。
 ---
 
 
-## 萃取技术
 侯捷的stl源码剖析中指出，traits编程技法，利用“内嵌型别”的编程技法和编译器的template参数推导功能，萃取出型别。
 
 参照SGI STL中iterator_traits就可以很好的理解：

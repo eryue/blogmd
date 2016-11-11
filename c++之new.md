@@ -6,9 +6,7 @@ tags: c/c++
 ---
 
 
-
-
-## new(delete)、operator new(delete)和 placement new
+new(delete)、operator new(delete)和 placement new 	
 new是一个运算符(new operator)，so，不能重载。new做两件事：      
 
 * 调用operator new分配内存
