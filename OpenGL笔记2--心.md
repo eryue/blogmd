@@ -1,5 +1,5 @@
 ---
-title: OpenGL笔记1--初识OpenGL
+title: OpenGL笔记2--画个心
 date: 2016-11-13
 categories: technology
 tags: OpenGL
